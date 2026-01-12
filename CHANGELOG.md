@@ -7,6 +7,26 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [0.0.2] - 2024-01-12
+
+### Fixed / 修复
+
+- 📝 Fixed LICENSE file containing generic TODO placeholder / 修复 LICENSE 文件包含 TODO 占位符的问题
+- ✅ Added complete MIT License text / 添加完整的 MIT License 文本
+
+### Changed / 变更
+
+- 📖 Split README into separate English and Chinese versions / 将 README 拆分为独立的英文版和中文版
+- 🎯 Simplified documentation for better readability / 简化文档以提高可读性
+- 🔗 Added mutual links between English and Chinese documentation / 在中英文文档之间添加相互链接
+- 📚 Moved detailed examples to example/ directory reference / 将详细示例移至 example/ 目录引用
+
+### Documentation / 文档
+
+- README.md - Concise English version / 简洁的英文版本
+- README_CN.md - Concise Chinese version / 简洁的中文版本
+- Both versions include quick start guide and core API reference / 两个版本都包含快速开始指南和核心 API 参考
+
 ## [0.0.1] - 2024-01-12
 
 ### Added / 新增
@@ -48,4 +68,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Troubleshooting guide / 故障排除指南
 - Best practices / 最佳实践
 
-[0.0.1]: https://github.com/yourusername/force_english_ime/releases/tag/v0.0.1
+[0.0.2]: https://github.com/W2XiaoYu/force_english_ime/releases/tag/v0.0.2
+[0.0.1]: https://github.com/W2XiaoYu/force_english_ime/releases/tag/v0.0.1

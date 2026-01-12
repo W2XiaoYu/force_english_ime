@@ -1,6 +1,6 @@
 name: force_english_ime
 description: A Windows plugin for Flutter that forces English input mode by completely disabling IME. Prevents users from switching input methods via shortcuts like Shift or Ctrl+Space.
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/W2XiaoYu/force_english_ime
 repository: https://github.com/W2XiaoYu/force_english_ime
 issue_tracker: https://github.com/W2XiaoYu/force_english_ime/issues

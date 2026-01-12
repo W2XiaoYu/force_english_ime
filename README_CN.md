@@ -1,6 +1,6 @@
 # force_english_ime
 
-[![pub package](https://img.shields.io/badge/pub-0.0.1-blue)](https://pub.dev/packages/force_english_ime)
+[![pub package](https://img.shields.io/badge/pub-0.0.2-blue)](https://pub.dev/packages/force_english_ime)
 [![license](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 
 [English Documentation](README.md)
@@ -31,7 +31,7 @@
 
 ```yaml
 dependencies:
-  force_english_ime: ^0.0.1
+  force_english_ime: ^0.0.2
 ```
 
 然后运行：
