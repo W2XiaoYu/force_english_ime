@@ -5,6 +5,13 @@ homepage: https://github.com/W2XiaoYu/force_english_ime
 repository: https://github.com/W2XiaoYu/force_english_ime
 issue_tracker: https://github.com/W2XiaoYu/force_english_ime/issues
 
+topics:
+  - ime
+  - windows
+  - input-method
+  - flutter-plugin
+  - input-control
+
 environment:
   sdk: ^3.10.4
   flutter: '>=3.3.0'
