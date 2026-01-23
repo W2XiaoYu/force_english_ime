@@ -7,6 +7,14 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [0.0.3] - 2026-01-23
+
+### Changed / 变更
+
+- 📉 Lowered SDK version requirement from `^3.10.4` to `>=2.17.0 <4.0.0` / 降低 SDK 版本要求，从 `^3.10.4` 改为 `>=2.17.0 <4.0.0`
+- 📉 Lowered Flutter version requirement from `>=3.3.0` to `>=3.0.0` / 降低 Flutter 版本要求，从 `>=3.3.0` 改为 `>=3.0.0`
+- 🔧 Better compatibility with older Flutter projects / 更好地兼容旧版 Flutter 项目
+
 ## [0.0.2] - 2026-01-12
 
 ### Fixed / 修复
@@ -68,5 +76,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Troubleshooting guide / 故障排除指南
 - Best practices / 最佳实践
 
+[0.0.3]: https://github.com/W2XiaoYu/force_english_ime/releases/tag/v0.0.3
 [0.0.2]: https://github.com/W2XiaoYu/force_english_ime/releases/tag/v0.0.2
 [0.0.1]: https://github.com/W2XiaoYu/force_english_ime/releases/tag/v0.0.1
